@@ -1,13 +1,13 @@
-let count = 0; // Initialize count to 0
+let count = 0; 
 
 function increaseCount() {
-    count++; // Increment the count by 1
+    count++; 
     displayCount();
-    checkCountValue(); // Check count value and display messages
+    checkCountValue(); 
   }
 
   function displayCount() {
-    document.getElementById('countDisplay').innerHTML=count; // Display the count in the HTML
+    document.getElementById('countDisplay').innerHTML=count;
     }
 
     function checkCountValue() {
