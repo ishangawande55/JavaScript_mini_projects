@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1r-4qTb7RJRRPFWLREsHP6PgK1B_x0Sbug&s",
+            "imageUrl": "https://images.pexels.com/photos/20587074/pexels-photo-20587074/free-photo-of-sydney-opera-house.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "enter_your_image_for_melbourne.jpg",
+            "imageUrl": "https://images.pexels.com/photos/2097616/pexels-photo-2097616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
